@@ -1,0 +1,64 @@
+.body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    
+}
+.header1 {
+    display:flex;
+}
+.menu {
+    display:flex;   
+    margin-left: 509px;
+    margin-right: 65px;
+    margin-top: 50px;
+
+}
+.navigation{
+    padding-right: 10px;
+    list-style:none;
+}
+.header2 {
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 455px;
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+}
+.text {
+    margin-left: 30px;
+    margin-bottom: 162px;
+    margin-right: 360px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    width: 636px;
+    
+    color: #000000;
+}
+.button {
+    margin-left: 415px;
+    margin-right: 415px;
+    margin-bottom: 115px;
+    width: 291px;
+    height: 67px;
+    left: 366px;
+    top: 698px;
+    background: #4DA4F4;
+
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    
+    
+    
+}
