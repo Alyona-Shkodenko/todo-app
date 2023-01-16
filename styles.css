@@ -1,7 +1,8 @@
 .body {
     font-family: 'Inter', sans-serif;
     font-family: 'Montserrat', sans-serif;
-    margin: auto;
+    margin: 0 auto;
+    width: 1024px;
     
 }
 .header1 {
@@ -12,6 +13,7 @@
     margin-left: 509px;
     margin-right: 65px;
     margin-top: 50px;
+    white-space: nowrap;
 
 }
 .navigation{
@@ -43,15 +45,16 @@
     color: #000000;
 }
 .button {
-    margin-left: 415px;
-    margin-right: 415px;
+    margin-left: 365px;
+    margin-right: 365px;
     margin-bottom: 115px;
     width: 291px;
     height: 67px;
     left: 366px;
     top: 698px;
     background: #4DA4F4;
-
+    
+    border:none;
     border-radius: 10px;
     font-style: normal;
     font-weight: 400;
